@@ -10,13 +10,15 @@ Om de oefeningen in deze cursus te kunnen maken heb je extra software nodig.
 Dit zijn voornamelijk Python pakketten.
 Deze kun je installeren met pip (de package installer for Python).
 
+Voor windows:
+
 `pip install -r requirements.txt`
 
-of
+of voor MAC:
 
 `pip3 install -r requirements.txt`
 
-of
+of als de bovenstaande niet werken:
 
 `py -m pip install -r requirements.txt`
 
