@@ -7,7 +7,7 @@ project:
     - name: Floris Dekker
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://github.com/Ernesto-delft/Floris-Ernesto.git
 
 extends:
   - plugins.yml
